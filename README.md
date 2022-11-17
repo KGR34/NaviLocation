@@ -22,7 +22,7 @@ The code for the application should now be shown in your Explorer located on the
 To run the application look to the top right of the window and click on the GREEN tringle which will then 
 run the application in the built in emulator.
 
-#Once the application is open you can register an account and login which will give you acccess to the map and its features.
+# Once the application is open you can register an account and login which will give you acccess to the map and its features.
 
 # DEMONSTRATION VIDEO : https://youtu.be/JfVSYzMGeAo
 
