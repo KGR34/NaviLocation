@@ -9,7 +9,7 @@ change their settings to alter distance measurements and filter nearby locations
 a description of a chosen location. The user can also search for a location or adress and will be taken to that location on
 the map.
 
-#Some challenges faced while building the application include working with team mates and bug fixing.
+# Some challenges faced while building the application include working with team mates and bug fixing.
 
 HOW TO : 
 Please use the Master Branch when running the application.
@@ -24,7 +24,7 @@ run the application in the built in emulator.
 
 #Once the application is open you can register an account and login which will give you acccess to the map and its features.
 
-#DEMONSTRATION VIDEO : https://youtu.be/JfVSYzMGeAo
+# DEMONSTRATION VIDEO : https://youtu.be/JfVSYzMGeAo
 
 MIT License
 
